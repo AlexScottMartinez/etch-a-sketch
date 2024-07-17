@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  width: 600px;
+  height: 600px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button{
+  margin-top: 50px;
+}
